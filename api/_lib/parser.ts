@@ -52,8 +52,8 @@ function getArray(stringOrArray: string[] | string | undefined): string[] {
 
 function getDefaultImages(images: string[], theme: Theme): string[] {
     const defaultImage = theme === 'light'
-        ? 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg'
-        : 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg';
+        ? 'https://cdn.learningexecutive.com/wp-content/uploads/2020/03/18182035/ele-logo-2-1.png'
+        : 'https://cdn.learningexecutive.com/wp-content/uploads/2021/09/30113817/ele-logo-dark.png';
 
     if (!images || !images[0]) {
         return [defaultImage];

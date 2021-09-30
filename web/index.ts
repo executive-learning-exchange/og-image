@@ -142,13 +142,13 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-    { text: 'ELE', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg' },
+    { text: 'ELE', value: 'https://cdn.learningexecutive.com/wp-content/uploads/2020/03/18182035/ele-logo-2-1.png' },
     { text: 'Lightbulb', value: 'https://cdn.learningexecutive.com/wp-content/uploads/2021/09/30102625/lightbulb.png' },
     
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-    { text: 'ELE', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg' },
+    { text: 'ELE', value: 'https://cdn.learningexecutive.com/wp-content/uploads/2021/09/30113817/ele-logo-dark.png' },
     { text: 'Lightbulb', value: 'https://cdn.learningexecutive.com/wp-content/uploads/2021/09/30102625/lightbulb.png' },
 ];
 
